@@ -1,5 +1,5 @@
 {
-  "author": "Nayan",
+  "author": "𝐬𝐚𝐢𝐝𝐮𝐥",
   "autoRestart": true,
   "accpetPending": false,
   "developermode": false,
@@ -9,14 +9,14 @@
   "saveState": true,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "SAIF-BOT",
+  "BOTNAME": "𝐒𝐚𝐢𝐝𝐮𝐥 𝐁𝐨𝐭 ",
   "PREFIX": ".",
   "OPERATOR": [
-    "100081317798618",
+    "61555887493470",
     ""
   ],
   "ADMINBOT": [
-    "100081317798618",
+    "61555887493470",
     ""
   ],
   "OWNER": ["100000959749712"], 
