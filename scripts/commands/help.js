@@ -5,7 +5,7 @@ module.exports.config = {
   name: "help",
   version: "1.0.2",
   permission: 0,
-  credits: "NAYAN",
+  credits: "SAIDUL",
   description: "beginner's guide",
   prefix: true,
   category: "guide",
